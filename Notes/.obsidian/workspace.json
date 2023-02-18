@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "5c77e189a1b77062",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43be9be3a416322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b776386bb5b016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230218.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "971431ee1d21f657",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2f544196ea4c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "732b042a288a2adc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4900c6d8f9aa5099",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4326f11ce89624d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "67159385e35dc236",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb20b27edc5a8b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f669b0f3c1ca54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20230218.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbc848308a92edf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20230218.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fbad39713937b93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68cae6c690193564",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20230218.md"
+              }
+            }
+          },
+          {
+            "id": "931d308795da2856",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "03d5eb8f23299dfd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "269e7a74ed33287a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5dba2c17f56247e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6268ed6c552540",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8f6268ed6c552540",
+  "lastOpenFiles": [
+    "Daily Notes/Feb-17-2023.md",
+    "Daily Notes/Feb-18-2023.md",
+    "Day Planners/Day Planner-20230218.md",
+    "Day Planners/Day Planner-Monday.md",
+    "Learning Obsidian/Intro - Daily Notes - Links.md",
+    "2023-02-17.md",
+    "Daily Notes.md",
+    "Untitled.md",
+    "Algorithms/Test.md",
+    "Untitled.canvas"
+  ]
+}
