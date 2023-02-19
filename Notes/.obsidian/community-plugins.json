@@ -7,7 +7,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-day-planner",
   "obsidian-spaced-repetition",
-  "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-textgenerator-plugin",
   "obsidian-statusbar-pomo",
   "templater-obsidian",
@@ -21,5 +20,8 @@
   "periodic-notes",
   "tag-wrangler",
   "note-refactor-obsidian",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "terminal",
+  "hotkeysplus-obsidian",
+  "obsidian-dictionary-plugin"
 ]
