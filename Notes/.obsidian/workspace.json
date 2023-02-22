@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Algorithms/Algorithms to Know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56ce9df0b5c21cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms/Algorithms to Know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bd97b2bb1bf732f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18d673cf33c0ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -70,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200
   },
   "right": {
     "id": "67159385e35dc236",
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Job interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Job interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +163,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Job interview.md"
               }
-            }
-          },
-          {
-            "id": "931d308795da2856",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -165,9 +194,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c24df9690a441916",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "5dba2c17f56247e1",
@@ -180,12 +217,22 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "931d308795da2856",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,20 +249,21 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "57b67f3112a45556",
+  "active": "4bd97b2bb1bf732f",
   "lastOpenFiles": [
-    "General Assembly/unit-2/5-authentication/5.1-oauth-authentication.md",
-    "General Assembly/unit-1/For Ashley/2-js-fundamentals/2.1-js-intro-datatypes.md",
-    "General Assembly/unit-1/For Ashley/2-js-fundamentals/2.2-js-control-flow.md",
-    "General Assembly/unit-1/For Ashley/1-dev-environment/1.hw-command-line-practice.md",
-    "General Assembly/unit-1/For Ashley/1-dev-environment/1.1-installfest-mac.md",
-    "General Assembly/unit-1/2-js-fundamentals/2.1-js-intro-datatypes.md",
+    "Algorithms/Structy/Graph Practice.md",
+    "Algorithms/Algorithms to Know.md",
+    "Algorithms/Technical Interview Practice.md",
+    "Array Questions.md",
     "Algorithms/Educative/07-Graphs.md",
-    "Algorithms/Educative/04-Doubly Linked Lists.md",
-    "Untitled.md",
-    "Algorithms/Educative/05-Linked Lists VS Arrays.md"
+    "Excalidraw/Graph-ex.excalidraw.md",
+    "Algorithms/Test.md",
+    "Algorithms/Educative/01-Complexity Measures.md",
+    "Algorithms/Primeagen - The last Algorithms Course You will need/Binary Search.md",
+    "images/Pasted image 20230221200520.png"
   ]
 }
