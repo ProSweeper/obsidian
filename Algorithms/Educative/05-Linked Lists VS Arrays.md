@@ -1,0 +1,10 @@
+-   main difference is how elements are inserted vs deleted
+    -   Linked Lists:
+        -   insertion + deletion happen in a constant amount of time if done at the head
+        -   nodes of a linked list may be dispersed throughout memory
+        -   access operations are O(n) since we need to traverse the list
+    -   Arrays:
+        -   Arrays are arranged contiguously (in sequence) in memory
+        -   this contiguous arrangement allows us to index arrays
+        -   access operations for an array are O(1)
+    -   This Table demonstrates the performance trade offs between the two
