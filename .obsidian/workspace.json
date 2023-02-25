@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparing.md",
+                "file": "Daily Notes/Feb-24-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparing.md",
+                "file": "Daily Notes/Feb-24-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparing.md",
+                "file": "Daily Notes/Feb-24-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparing.md"
+                "file": "Daily Notes/Feb-24-2023.md"
               }
             }
           },
@@ -218,10 +218,12 @@
   },
   "active": "57b67f3112a45556",
   "lastOpenFiles": [
+    "Preparing.md",
+    "Daily Notes/Feb-24-2023.md",
+    "Grokking the Behavioural Interview.md",
+    "Day Planners/Day Planner-20230224.md",
     "Day Planners/Day Planner-20230223.md",
     "Learn the STAR answer format.md",
-    "Preparing.md",
-    "Grokking the Behavioural Interview.md",
     "Why Prepare.md",
     "Use structured courses.md",
     "Behavioural Interview.md",
@@ -254,8 +256,6 @@
     "Notes/General Assembly/unit-1/For Ashley/2-js-fundamentals/2.2-js-control-flow.md",
     "Notes/General Assembly/unit-1/For Ashley/2-js-fundamentals/2.1-js-intro-datatypes.md",
     "Notes/General Assembly/unit-1/For Ashley/3-html-css/3.2-intro-to-css.md",
-    "Notes/General Assembly/unit-1/For Ashley/3-html-css/3.1-intro-to-html.md",
-    "Notes/General Assembly/unit-1/For Ashley/1-dev-environment/1.hw-command-line-practice.md",
     "Notes/General Assembly/unit-1/For Ashley/3-html-css",
     "Notes/General Assembly/unit-1/For Ashley/2-js-fundamentals",
     "Notes/General Assembly/unit-1/For Ashley/1-dev-environment",
