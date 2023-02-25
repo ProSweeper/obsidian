@@ -16,4 +16,4 @@ Project questions to prepare for
 - what would I do differently
 - any hiccups
 	- how would I fix them
-[[Behavioural Interview]] 
+[[Behavioral Interview]] 
