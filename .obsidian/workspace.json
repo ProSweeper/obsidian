@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "15e2224a8ccc7517",
+        "id": "e05b51bcbc96b00f",
         "type": "tabs",
         "children": [
           {
-            "id": "881ee023043b33bf",
+            "id": "e9c6bf2d2623c478",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/01-Type Categories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb143edc8da72297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,15 +209,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "eb143edc8da72297",
+  "active": "e9c6bf2d2623c478",
   "lastOpenFiles": [
+    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
+    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/01-Type Categories.md",
     "Pasted image 20230301135150.png",
     "Pasted image 20230301134934.png",
     "Pasted image 20230301134213.png",
     "Pasted image 20230301134139.png",
     "Pasted image 20230301133945.png",
-    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/01-Type Categories.md",
-    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
     "Pasted image 20230301133650.png",
     "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/JSON Types Exercise.md",
     "Pasted image 20230301133147.png",
@@ -246,7 +225,6 @@
     "Pasted image 20230301130607.png",
     "images/Pasted image 20230301122306.png",
     "TypeScript/FrontEndMastersTs/TypeScript Fundamentals",
-    "images/Pasted image 20230301124821.png",
     "Day Planners/Day Planner-20230301.md",
     "Blog Ideas/Planning.md",
     "Daily Notes/Feb-27-2023.md",
