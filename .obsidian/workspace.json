@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5fecf9203bca6e",
+        "id": "15e2224a8ccc7517",
         "type": "tabs",
         "children": [
           {
-            "id": "456b0f8211a1401f",
+            "id": "881ee023043b33bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/EducativeTS/TypeScript Mapped Type.md",
+                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/01-Type Categories.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e8cc3fdf53da413",
+            "id": "eb143edc8da72297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/FrontEndMastersTs/Type Categories.md",
+                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "67159385e35dc236",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/FrontEndMastersTs/Type Categories.md",
+                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/FrontEndMastersTs/Type Categories.md",
+                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/FrontEndMastersTs/Type Categories.md"
+                "file": "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             }
           },
           {
-            "id": "bcd40bc0324be663",
+            "id": "30fe566882209125",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -207,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,24 +230,38 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "931d308795da2856",
+  "active": "eb143edc8da72297",
   "lastOpenFiles": [
-    "images/Pasted image 20230225154022.png",
-    "images/Pasted image 20230225140337.png",
-    "TypeScript/FrontEndMastersTs/Type Categories.md",
-    "images/Pasted image 20230225153648.png",
-    "images/Pasted image 20230225140836.png",
-    "images/Pasted image 20230225134846.png",
-    "images/Pasted image 20230225112238.png",
+    "Pasted image 20230301135150.png",
+    "Pasted image 20230301134934.png",
+    "Pasted image 20230301134213.png",
+    "Pasted image 20230301134139.png",
+    "Pasted image 20230301133945.png",
+    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/01-Type Categories.md",
+    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/02-Functions.md",
+    "Pasted image 20230301133650.png",
+    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals/JSON Types Exercise.md",
+    "Pasted image 20230301133147.png",
+    "Pasted image 20230301130748.png",
+    "Pasted image 20230301130607.png",
+    "images/Pasted image 20230301122306.png",
+    "TypeScript/FrontEndMastersTs/TypeScript Fundamentals",
+    "images/Pasted image 20230301124821.png",
+    "Day Planners/Day Planner-20230301.md",
+    "Blog Ideas/Planning.md",
+    "Daily Notes/Feb-27-2023.md",
+    "Daily Notes/Feb-28-2023.md",
+    "Blog Ideas",
+    "Day Planners/Day Planner-20230228.md",
+    "Excalidraw/Founding Story Page Planning 2023-02-27 12.38.59.excalidraw.md",
+    "Sweet Trades/Founding Story Page Planning.md",
+    "Sweet Trades",
+    "Day Planners/Day Planner-20230227.md",
     "TypeScript/EducativeTS/TypeScript Mapped Type.md",
-    "images/Pasted image 20230225110120.png",
-    "images/Pasted image 20230225105810.png",
-    "images/Pasted image 20230225104724.png",
     "Day Planners/Day Planner-20230225.md",
     "TypeScript/EducativeTS/Educative TypeScript.md",
     "General Assembly/unit-1/1-dev-environment/1.1-installfest-mac.md",
     "TypeScript/FrontEndMastersTs",
-    "Untitled.md",
     "TypeScript/EducativeTS",
     "Daily Notes/Feb-24-2023.md",
     "TypeScript/EducativeTS/TypeScript Enums.md",
@@ -260,21 +276,7 @@
     "T3 Stack",
     "Project Summaries/Yard Barker.md",
     "Project Summaries/Tourney of Champs.md",
-    "Project Summaries/Finesse Fitness.md",
-    "Interview Prep/Behavioural Interview.md",
-    "Interview Prep/Job interview.md",
     "Project Summaries",
-    "General Assembly/unit-4/1-react/1.1-intro-react-and-components.md",
-    "Algorithms/Educative/02-Arrays Intro.md",
-    "Daily Notes/Feb-23-2023.md",
-    "Interview Prep/Preparing.md",
-    "Day Planners/Day Planner-20230223.md",
-    "Interview Prep/Learn the STAR answer format.md",
-    "Notes/images/Pasted image 20230221202246.png",
-    "Notes/images/Pasted image 20230221202218.png",
-    "Notes/images",
-    "Notes/Learning Obsidian",
-    "Notes/General Assembly/unit-1/For Ashley/3-html-css",
-    "Notes/General Assembly/unit-1/For Ashley/2-js-fundamentals"
+    "Notes/images"
   ]
 }
